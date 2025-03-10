@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Position
+comment1.params=lon\ lat
+comment1.target=Position(int,\ int)
+comment2.params=
+comment2.target=int\ getLon()
+comment3.params=
+comment3.target=int\ getLat()
+comment4.params=lon
+comment4.target=void\ setLon(int)
+comment5.params=lat
+comment5.target=void\ setLat(int)
+numComments=6
