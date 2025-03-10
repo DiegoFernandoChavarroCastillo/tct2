@@ -1,5 +1,0 @@
-#BlueJ class context
-comment0.target=AircraftCarrier
-comment1.params=lon\ lat
-comment1.target=AircraftCarrier(int,\ int)
-numComments=2
